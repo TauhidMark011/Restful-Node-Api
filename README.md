@@ -9,11 +9,11 @@ alt text
 If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
 
 Requirements
-Node.js, express javascript
+Node.js, express javascript (Postman)
 
 Getting Started
 Setup DB
-(Postman)
+
 you can find the DB and other details under src/db create a database with the name node-typescript-rest-api and then run/ import the .sql files (extract the sql files from sql.zip). Or you can run npm run seed.
 
 install pm2 globally with npm install -g pm2
