@@ -32,16 +32,9 @@ you can change port in .env file check .env-sample
 
 Folder Structure
 src
-└───index.ts          # Application entry point
-└───routes            # Application routes / endpoints
-└───controllers       # Express route controllers for all the endpoints of the app
-└───repositories      # All the database interaction logic is here
-└───db                # DB related files like connection / seed data
-└───handlers          # Common logic
-└───logs              # application logs
-└───middlewares       # express middlewares
-└───models            # DB Models (Postgress)
-└───validators        # API Request object validations
+└───db.js          # Application entry point database json
+└───node.js.ex      # Application main function node method
+
 
 Features
 CRUD operations for books/movies
