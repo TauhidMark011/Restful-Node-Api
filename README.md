@@ -9,7 +9,7 @@ alt text
 If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
 
 Requirements
-Node.js, postgresql
+Node.js, express javascript
 
 Getting Started
 Setup DB
