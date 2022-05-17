@@ -1,0 +1,10 @@
+
+{
+    "posts": [
+      { "id": 1, "name": "Health" },  { "id": 2, "name": "Technical Developments" },  { "id": 3, "name": "Productivity" }, 
+      { "id": 4, "name": "Motivation" },  { "id": 5, "name": "Maze Ransamwore Attack" },  { "id": 6, "name": "Heavy detected at Facebook" }
+      
+    ]
+  
+   
+  } 
